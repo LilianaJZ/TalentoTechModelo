@@ -6,3 +6,6 @@ Recomendaciones:
     pip install -r requirements.txt
 3.Desactivar el ambiente virtual al terminar:
     deactivate
+
+Proyecto:
+1.Levantar servidor: streamlit run main.py
