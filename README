@@ -1,0 +1,8 @@
+Recomendaciones:
+1.Usar ambiente virtual:
+    python -m venv venv
+    .\venv\Scripts\Activate
+2.Instalar las dependencias:
+    pip install -r requirements.txt
+3.Desactivar el ambiente virtual al terminar:
+    deactivate
